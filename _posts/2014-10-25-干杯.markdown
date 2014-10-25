@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "干杯"
-<!-- subtitle:   "Problems look mighty small from 150 miles up" -->
+subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-10-25 12:00:00
 author:     "Jathon"
 header-img: "img/post-bg-06.jpg"
