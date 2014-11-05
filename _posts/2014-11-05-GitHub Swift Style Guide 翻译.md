@@ -4,7 +4,7 @@ title:      "GitHub Swift Style Guide"
 subtitle:   "仅对 GitHub 原文档进行不太优质翻译"
 date:       2014-11-05 12:00:00
 author:     "Bruce"
-header-img: "img/post-bg-08.jpg"
+header-img: "img/post-bg-08.png"
 ---
 
 
