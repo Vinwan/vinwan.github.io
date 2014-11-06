@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "GitHub Swift Style Guide"
-subtitle:   "仅对 GitHub 原文档进行不负责任翻译"
+subtitle:   "对 GitHub 原文档进行的翻译「非原创」"
 date:       2014-11-05 12:00:00
 author:     "Bruce"
 header-img: "img/post-bg-08.jpg"
